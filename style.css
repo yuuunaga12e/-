@@ -476,7 +476,7 @@ body {
 /* QR Code Area */
 .qr-area {
     display: flex;
-    gap: 15px;
+    gap: 40px;
 }
 
 .qr-box {
