@@ -2,7 +2,7 @@
 # config.js (Commented out to allow public business contact info)
 
 # Generated PDF files
-*.pdf
+# *.pdf (Commented out to allow PDF distribution)
 
 # System files
 .DS_Store
