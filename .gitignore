@@ -1,5 +1,5 @@
 # Sensitive config file
-config.js
+# config.js (Commented out to allow public business contact info)
 
 # Generated PDF files
 *.pdf
