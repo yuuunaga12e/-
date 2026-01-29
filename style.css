@@ -98,7 +98,7 @@ body {
     margin-bottom: 20px;
     grid-template-areas:
         "hours   image"
-        "regular spot";
+        "spot regular";
 }
 
 /* 1. Business Hours (Top Left) */
@@ -620,8 +620,8 @@ body {
         grid-template-areas:
             "image"
             "hours"
-            "regular"
-            "spot";
+            "spot"
+            "regular";
         gap: 20px;
     }
 
