@@ -10,4 +10,4 @@ const emailAddress = "yuuunaga.12@gmail.com";
 // ▼ QRコードのリンク先URL
 const qrLineUrl = "https://lin.ee/RlVTD8p";
 const qrInstaUrl = "https://www.instagram.com/yukari_babysitter.fukuoka/";
-const qrHpUrl = "https://lynxbase.vercel.app/";
+const qrHpUrl = "https://www.lynxbaseworks.com/";
